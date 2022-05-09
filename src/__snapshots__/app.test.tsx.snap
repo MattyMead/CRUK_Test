@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render 1`] = `
+<Component
+  theme={
+    Object {
+      "avatar": Object {
+        "l": "60px",
+        "m": "50px",
+        "path": "https://fundraise.cancerresearchuk.org/profiles/cruk_fundraising/themes/cruk_of_bootstrap/images/icon-avatars/",
+        "s": "35px",
+        "xl": "90px",
+      },
+      "breakpoint": Object {
+        "desktop": "992px",
+        "desktopLarge": "1200px",
+        "mobile": "576px",
+        "tablet": "768px",
+      },
+      "button": Object {
+        "borderRadius": "4px",
+        "borderRadiusLarge": "4px",
+        "buttonBorderThickness": "2px",
+        "textDecoration": "none",
+        "textTransform": "none",
+      },
+      "colors": Object {
+        "backgroundLight": "#fff",
+        "backgroundLightColor": "#dad2ea",
+        "backgroundMid": "#f5f5f5",
+        "buttonPrimaryBackground": "#e40087",
+        "buttonPrimaryBackgroundHover": "#BB0071",
+        "buttonPrimaryBorder": "#e40087",
+        "buttonPrimaryBorderHover": "#BB0071",
+        "buttonPrimaryDisabledBackground": "#f5f5f5",
+        "buttonPrimaryDisabledBorder": "#f5f5f5",
+        "buttonPrimaryDisabledText": "#9A9A9A",
+        "buttonPrimaryText": "#fff",
+        "buttonPrimaryTextHover": "#fff",
+        "buttonSecondaryBackground": "#fff",
+        "buttonSecondaryBackgroundHover": "#fdeaf5",
+        "buttonSecondaryBorder": "#e40087",
+        "buttonSecondaryBorderHover": "#BB0071",
+        "buttonSecondaryDisabledBackground": "#f5f5f5",
+        "buttonSecondaryDisabledBorder": "#f5f5f5",
+        "buttonSecondaryDisabledText": "#9A9A9A",
+        "buttonSecondaryText": "#e40087",
+        "buttonSecondaryTextHover": "#BB0071",
+        "buttonTertiaryDisabledText": "#9A9A9A",
+        "buttonTertiaryText": "#e40087",
+        "buttonTertiaryTextHover": "#BB0071",
+        "circularProgress": "#00b6ed",
+        "circularProgressBackground": "#c6c6c6",
+        "circularProgressSecondary": "#e40087",
+        "danger": "#D51311",
+        "disabled": "#c6c6c6",
+        "footerBackground": "#ededed",
+        "headerBackground": "#fff",
+        "headerBorder": "#c6c6c6",
+        "info": "#00b6ed",
+        "inputBorder": "#2e2d2c",
+        "linkColor": "#2e008b",
+        "linkColorHover": "#BB0071",
+        "loaderColor1": "#2e008b",
+        "loaderColor2": "#e40087",
+        "loaderColor3": "#00b6ed",
+        "modalBackdrop": "#2e2d2c",
+        "paginationActive": "#c6c6c6",
+        "paginationBackground": "#2e008b",
+        "paginationText": "#2e008b",
+        "popoverBackground": "#fff",
+        "primary": "#2e008b",
+        "progressBar": "#2e008b",
+        "progressBarBackground": "#ededed",
+        "progressBarSecondary": "#e40087",
+        "secondary": "#e40087",
+        "selectBackground": "#2e2d2c",
+        "selectionBorder": "#9A9A9A",
+        "stepBackground": "#fff",
+        "stepBorder": "#c6c6c6",
+        "success": "#3d854d",
+        "tertiary": "#00b6ed",
+        "textDark": "#2e2d2c",
+        "textError": "#D51311",
+        "textInputBorder": "#2e2d2c",
+        "textInputExtraInfo": "#ededed",
+        "textLight": "#fff",
+        "textOnPrimary": "#fff",
+        "textOnSecondary": "#fff",
+        "textOnTertiary": "#fff",
+        "totaliserBubbleColor": "#ededed",
+        "totaliserBubbleTextColor": "#2e2d2c",
+        "totaliserBubbleTotalColor": "#2e008b",
+        "userBlockExtraText": "#575757",
+        "warning": "#fdc02f",
+      },
+      "fontSizes": Object {
+        "l": "1.25rem",
+        "m": "1rem",
+        "s": "0.875rem",
+        "xl": "1.5625rem",
+        "xs": "0.75rem",
+        "xxl": "2rem",
+        "xxxl": "2.5rem",
+        "xxxxl": "3.125rem",
+      },
+      "name": "cruk",
+      "siteConfig": Object {
+        "assetPath": "https://fundraise.cancerresearchuk.org/profiles/cruk_fundraising/themes/cruk_of_bootstrap/",
+        "cdnPath": "https://ccp-s3.int.cruk.org/",
+        "footerCopyText": "Cancer Research UK is a registered charity in England and Wales (1089464), Scotland (SC041666), the Isle of Man (1103) and Jersey (247). A company limited by guarantee. Registered company in England and Wales(4325234) and the Isle of Man (5713F).",
+        "footerLogoAlt": "Registered with Fundraising Regulator",
+        "footerLogoSrc": "https://fundraise.cancerresearchuk.org/profiles/cruk_fundraising/themes/cruk_of_bootstrap/images/fundreg.png",
+        "logoAlt": "Cancer Research UK Giving Page",
+        "logoSrc": "https://fundraise.cancerresearchuk.org/profiles/cruk_fundraising/themes/cruk_of_bootstrap/logo.png",
+        "logoUrl": "/",
+      },
+      "spacing": Object {
+        "auto": "auto",
+        "l": "2.5rem",
+        "m": "2rem",
+        "none": "0",
+        "s": "1.5rem",
+        "xl": "3rem",
+        "xs": "1rem",
+        "xxl": "3.5rem",
+        "xxs": "0.5rem",
+      },
+      "tokenColors": Object {
+        "black": "#000",
+        "cyan_500": "#00b6ed",
+        "cyan_900": "#005870",
+        "darkBlue_100": "#edeaf5",
+        "darkBlue_200": "#dad2ea",
+        "darkBlue_300": "#a896cf",
+        "darkBlue_500": "#2e008b",
+        "green": "#3d854d",
+        "grey_100": "#f5f5f5",
+        "grey_200": "#ededed",
+        "grey_300": "#c6c6c6",
+        "grey_500": "#9A9A9A",
+        "grey_800": "#575757",
+        "grey_900": "#2e2d2c",
+        "magenta_100": "#fdeaf5",
+        "magenta_500": "#e40087",
+        "magenta_800": "#BB0071",
+        "magenta_900": "#710044",
+        "red": "#D51311",
+        "white": "#fff",
+        "yellow": "#fdc02f",
+      },
+      "typography": Object {
+        "customFonts": Array [
+          Object {
+            "family": "MuseoSans-500",
+            "url": "https://ccp-s3.int.cruk.org/fonts/MuseoSansRounded-500",
+          },
+        ],
+        "fontFamilyBase": "Arial, Calibri, nimbussansl, liberationsans, freesans, clean, sans-serif",
+        "fontFamilyHeadings": "MuseoSans-500,Calibri,Arial,sans-serif",
+        "fontSizeBase": "16px",
+        "fontUrl": "https://ccp-s3.int.cruk.org/fonts",
+        "fontWeightHeavy": "700",
+        "fontWeightLight": "300",
+        "fontWeightMedium": "500",
+        "fontWeightNormal": "400",
+        "fontWeightVLight": "100",
+        "headerLineHeight": "1.25em",
+        "headerTextTransform": "none",
+        "lineHeight": "1.5em",
+        "linkTextDecoration": "underline",
+      },
+      "utilities": Object {
+        "contentMaxWidth": "1020px",
+        "inputBorderWidth": "1px",
+        "useBackgroundStyleLinks": false,
+        "useDefaultFocusRect": true,
+        "useDefaultFromControls": false,
+      },
+    }
+  }
+>
+  <styled.div>
+    <div>
+      <h1>
+        CRUK technical exercise - React
+      </h1>
+    </div>
+    <div>
+      <ForwardRef
+        label="Keywords"
+        name="keywords"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+      <ForwardRef
+        appearance="primary"
+        full={false}
+        size="m"
+        type="submit"
+      >
+        Submit
+      </ForwardRef>
+    </div>
+  </styled.div>
+</Component>
+`;

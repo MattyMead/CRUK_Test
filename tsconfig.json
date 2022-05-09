@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"strict": true,
+		"target": "es5",
+		"lib": [ "es5", "es6", "dom" ],
+		"jsx": "react",
+		"allowJs": true,
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"removeComments": true,
+    "incremental": true,
+    "downlevelIteration": true,
+		"baseUrl": ".",
+		"paths": {
+			"*": ["*"],
+			"@config/*": ["config/*"],
+			"@app/*": ["src/*"]
+		}
+	},
+	"include": [
+		"src/**/*",
+		"config/**/*",
+		"tests/**/*"
+	]
+}
